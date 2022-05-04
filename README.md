@@ -1,12 +1,12 @@
 <!-- ![Open Source Notice](https://github.com/LRANUL/RPLS/blob/master/images/sphere.png)  -->
 
-<img align="right" alt="Open Source Notice with usage rights" width="100" height="100" src="https://github.com/LRANUL/RPLS/blob/master/images/sphere.png">
+<img align="right" alt="Open Source Notice with usage rights" width="100" height="100" src="https://github.com/LRANUL/LRANUL/blob/main/information.png">
 
 ## Welcome ✨
 
-_I'm an active academic in the field of information systems. Right now as a researcher, I study on ways for building better software for large communities around the world._
+I'm an active academic in the field of information systems. Right now as a researcher, I study on ways for building better software for large communities around the world.
 
-If you are interested you may communicate for working on similar projects in the subject area, this handle is maintained for research/academic/enterprise projects and repositories are always managed under polices by authorized researchers or engineers, so please be aware of the code of conduct below before affiliating with our work(s).
+If you are interested you may communicate for working on similar projects in the subject area, this handle is maintained for research/academic/enterprise projects and repositories are always managed under polices by authorized academics or engineers, so please be aware of the code of conduct below before affiliating with our work(s).
 
 
 ----
