@@ -8,7 +8,8 @@ I'm an active academic in the field of information systems. Right now as a resea
 
 If you are interested you may communicate for working on similar projects in the subject area, this handle is maintained for research/academic/enterprise projects and repositories are always managed under polices by authorized academics or engineers, so please be aware of the code of conduct below before affiliating with our work(s).
 
-
+[![GitHub](https://img.shields.io/badge/GitHub-%40LRANUL-black.svg)](https://github.com/LRANUL)
+[![LinkedIn](https://img.shields.io/badge/Linked-in-blue.svg)](https://www.linkedin.com/in/ranul/)
 ----
 
 <sub><sub>
