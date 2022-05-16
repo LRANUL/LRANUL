@@ -1,5 +1,5 @@
 <!-- ![Open Source Notice](https://github.com/LRANUL/RPLS/blob/master/images/sphere.png)  -->
-[](https://pastepixel.com/image/d5U9hkBxk7fs2SbQ73vp.png)
+<img src="https://pastepixel.com/image/d5U9hkBxk7fs2SbQ73vp.png" alt=""/>
 <img align="right" alt="Open Source Notice with usage rights" width="100" height="100" src="https://github.com/LRANUL/LRANUL/blob/main/information.png">
 
 ## Welcome ✨
