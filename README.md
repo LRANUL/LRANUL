@@ -12,7 +12,16 @@
 
 I'm an active academic in the field of information systems. Right now as a researcher, I study on ways for building better software for large communities around the world.
 
+### Code of Conduct
 If you are interested you may communicate for working on similar projects in the subject area, this handle is maintained for research/academic/enterprise projects and repositories are always managed under polices by authorized academics or engineers, so please be aware of the code of conduct below before affiliating with our work(s).
+
+**DUE TO UNAUTHORISED REPUBLICATION OF WORKS AS MODIFICATION WITHOUT PRIOR PERMISSION, ACCREDITATION OR COMPENSATION FOR ORIGINAL AUTHORS OF OUR PROJECT(S) AND OR PRODUCT(S). HEREBY WE HAVE DECIDED TO PUT THIS NOTICE FOR AWARENESS TO PREVENT FURTHER MISUSE OF OUR SOFTWARE LICENSE.**
+
+**NECESSARY LEGAL ACTION WOULD BE TAKEN AGAINST PARTIES WHO FAILURE TO INFORM US OF THEIR USE OF OUR WORKS. PARTIES CAN APPEAL FOR SOFTWARE LICENSE MISUSE FINE OF £900,000.00 BY SENDING US AN APPEAL APPLICATION ABOUT YOUR USE OF OUR WORKS AND STILL PROPER ACCREDITATION FOR AUTHORS IS REQUIRED WHICH HAVE ADAPTED OUR PROJECT IDEA, MATERIAL, LOGICS, INTELLECTUAL PROPERTY BY REASONS OF USE.**
+
+<SUB>FOR PROPER LICENSING AND FINE PAYMENTS EMAIL: RPLS@GMX.COM<SUB>
+
+[LICENSING AND FINE APPEALS APPLICATION FORM](https://forms.gle/G1853NTKxwiV9HmE8)
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40LRANUL-black.svg?style=plastic&logo=GitHub)](https://github.com/LRANUL)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-Ranul-blue.svg?style=plastic&logo=Linkedin)](https://www.linkedin.com/in/ranul/)
