@@ -15,7 +15,7 @@ I'm an active academic in the field of information systems. Right now as a resea
 ### Code of Conduct
 If you are interested you may communicate for working on similar projects in the subject area, this handle is maintained for research/academic/enterprise projects and repositories are always managed under polices by authorized academics or engineers, so please be aware of the code of conduct below before affiliating with our work(s).
 
-**DUE TO UNAUTHORISED REPUBLICATION OF WORKS AS MODIFICATION WITHOUT PRIOR PERMISSION, ACCREDITATION OR COMPENSATION FOR ORIGINAL AUTHORS OF OUR PROJECT(S) AND OR PRODUCT(S). HEREBY WE HAVE DECIDED TO PUT THIS NOTICE FOR AWARENESS TO PREVENT FURTHER MISUSE OF OUR SOFTWARE LICENSE AND TO ARCHIVE THEM SECURELY IN A PRIVATE STORAGE.**
+**DUE TO UNAUTHORISED REPUBLICATION OF WORKS AS MODIFICATION WITHOUT PRIOR PERMISSION, ACCREDITATION OR COMPENSATION FOR ORIGINAL AUTHORS OF OUR PROJECT(S) AND OR PRODUCT(S). HEREBY WE HAVE DECIDED TO PUT THIS NOTICE FOR AWARENESS TO PREVENT FURTHER MISUSE OF OUR SOFTWARE LICENSE.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40LRANUL-black.svg?style=plastic&logo=GitHub)](https://github.com/LRANUL)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-Ranul-blue.svg?style=plastic&logo=Linkedin)](https://www.linkedin.com/in/ranul/)
